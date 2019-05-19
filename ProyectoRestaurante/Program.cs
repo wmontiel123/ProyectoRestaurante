@@ -10,6 +10,9 @@ namespace ProyectoRestaurante
     {
         static void Main(string[] args)
         {
+            string c;
+            c = "0";
+
         }
     }
 }
